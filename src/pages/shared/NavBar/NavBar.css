@@ -2,3 +2,7 @@
     border: 1px solid #FF3811;
     color: #FF3811;
 }
+.nav-btn:hover{
+    background-color: #FF3811;
+    border: 0px;
+}
