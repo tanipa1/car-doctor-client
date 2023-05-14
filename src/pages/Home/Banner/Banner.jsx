@@ -16,8 +16,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn banner-btn">Button</button>
-                        <button className="btn btn-outline banner-latest">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
@@ -33,8 +33,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn btn-primary">Button</button>
-                        <button className="btn btn-outline btn-primary">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
@@ -50,8 +50,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn btn-primary">Button</button>
-                        <button className="btn btn-outline btn-primary">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn btn-primary">Button</button>
-                        <button className="btn btn-outline btn-primary">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
@@ -84,8 +84,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn btn-primary">Button</button>
-                        <button className="btn btn-outline btn-primary">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
@@ -101,8 +101,8 @@ const Banner = () => {
                         <h1 className='text-5xl font-bold'>Affordable Price For Car Servicing</h1>
                         <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
                         <div className='text-white flex gap-4'>
-                        <button className="btn btn-primary">Button</button>
-                        <button className="btn btn-outline btn-primary">Button</button>
+                        <button className="btn banner-btn">Discover More</button>
+                        <button className="btn btn-outline banner-latest">Latest Project</button>
                         </div>
                     </div>
                 </div>
