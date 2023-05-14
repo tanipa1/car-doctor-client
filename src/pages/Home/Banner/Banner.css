@@ -1,0 +1,11 @@
+.banner-btn{
+    background-color: #FF3811;
+}
+.banner-latest{
+    border: 1px solid white;
+    color: white;
+}
+.banner-latest:hover{
+    background-color: white;
+    color: black;
+}
